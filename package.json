@@ -1,0 +1,15 @@
+{
+  "name": "@vikas/verdaccio-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "verdaccio --config ./config.yaml"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "verdaccio": "^5.5.2"
+  }
+}

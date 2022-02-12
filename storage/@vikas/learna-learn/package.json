@@ -1,0 +1,42 @@
+{
+	"name": "@vikas/learna-learn",
+	"versions": {
+		"0.0.1": {
+			"name": "@vikas/learna-learn",
+			"private": false,
+			"version": "0.0.1",
+			"devDependencies": {
+				"lerna": "^4.0.0"
+			},
+			"_id": "@vikas/learna-learn@0.0.1",
+			"_nodeVersion": "14.17.4",
+			"_npmVersion": "6.14.14",
+			"dist": {
+				"integrity": "sha512-D7rLjXEBqWaWALpmElh8W3sqx5pyf4OZLlm43JSLxCOjasBwq8wicC0EO543HRagOJar4KDSI6w2Op69nfgLBQ==",
+				"shasum": "11e7e49779a5768730d542db15db1073878d994b",
+				"tarball": "http://localhost:4873/@vikas/learna-learn/-/@vikas/learna-learn-0.0.1.tgz"
+			},
+			"contributors": []
+		}
+	},
+	"time": {
+		"modified": "2022-02-12T09:29:57.211Z",
+		"created": "2022-02-12T09:29:57.211Z",
+		"0.0.1": "2022-02-12T09:29:57.211Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "0.0.1"
+	},
+	"_uplinks": {},
+	"_distfiles": {},
+	"_attachments": {
+		"learna-learn-0.0.1.tgz": {
+			"shasum": "11e7e49779a5768730d542db15db1073878d994b",
+			"version": "0.0.1"
+		}
+	},
+	"_rev": "3-9cb495279fbf224e",
+	"_id": "@vikas/learna-learn",
+	"readme": "ERROR: No README data found!"
+}
